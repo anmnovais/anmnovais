@@ -21,6 +21,7 @@
 <div style="display: inline_block"><br/>
 <img alignm="center" alt="html5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> 
 <img alignm="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+<img alignm="center" alt="html5" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 
 ## Desafios futuros
 
@@ -30,7 +31,6 @@
 <img alignm="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img alignm="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=whitee"/>
 <img alignm="center" alt="html5" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img alignm="center" alt="html5" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 <img alignm="center" alt="html5" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
 <img alignm="center" alt="html5" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
 <img alignm="center" alt="html5" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=whitee"/>
@@ -45,11 +45,7 @@
 
 </div>
 
-### Eu estou em transição de carreira para a área tech, porém já possuo algumas formações anteriores - tais como:
-💪 - Graduação em educação física
-💉 - Especialização em Acupuntura
-💼 - Bacharelado em Administração (a concluir)
-🔮 - Numerologia cabalística e atualmente 
-🧑‍💻 - estou me graduando em Engenharia de Software com foco na área de dados para insights de negócios 
+### Eu estou em transição de carreira para a área tecnológica, embora já possua formação e experiência nas áreas da educação e saúde, estou atualmente me graduando em engenharia de software e pós graduando em MBA Business Intelligence, Data Science Big Data Analytics, Administração de Banco de Dados & Segurança da informação.
 
-# Sejam todos bem vindo(as) ao meu GitHub
+
+# Sejam todos bem vindo(as) ao meu GitHub...
