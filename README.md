@@ -5,17 +5,10 @@ Seja muito bem vindo(a) aqui no meu perfil do github!
 
 ![anmnovais GitHub stats](https://github-readme-stats.vercel.app/api?username=anmnovais&show_icons=true&theme=radical)
 
-## Tecnologias dominantes
+## Tecnologias dominantes | em aprendizagem
 
 <img alignm="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img alignm="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
 
-## Tecnologias em aprendizagem
-
-<div style="display: inline_block"><br/>
-<img alignm="center" alt="html5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> 
-<img alignm="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-<img alignm="center" alt="html5" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 
 ## Desafios futuros
 
@@ -24,7 +17,5 @@ Seja muito bem vindo(a) aqui no meu perfil do github!
 
 </div>
 
-### Eu estou em transição de carreira para a área tecnológica, embora já possua formação e experiência nas áreas da educação e saúde, estou atualmente me graduando em engenharia de software e pós graduando em MBA Business Intelligence, Data Science Big Data Analytics, Administração de Banco de Dados & Segurança da informação.
+### Eu estou em transição de carreira para a área da tecnologia, atualmente cursando engenharia de software, desenvolvimento frontend e dados
 
-
-# Sejam todos bem vindo(as) ao meu GitHub...
